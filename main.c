@@ -1,1 +1,3 @@
-hehe
+int main() {
+    return 0;
+}
